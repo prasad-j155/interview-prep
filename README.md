@@ -1,5 +1,3 @@
-# interview-prep
-
 # 🎙️ AcePrep: Your AI Mock Interview Coach
 
 **AcePrep** is an AI-powered mock interview web app built with Streamlit. It helps you prepare for technical interviews by asking domain-specific questions, allowing voice or typed responses, and giving real-time evaluation using large language models (LLMs).
@@ -47,6 +45,19 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 # Install dependencies
 pip install -r requirements.txt
 ```
+## 🔑 Get a Free API Key
+
+This app uses free LLM APIs from:
+```bash
+Together.ai
+Sign up and go to your API Keys page.
+Generate a new key and copy it.
+
+OpenRouter.ai (if you use OpenRouter)
+Sign up and visit your account settings.
+Create and copy your API key.
+```
+
 
 ##  🔐 Setup API Key
 Create a .env file in the root directory:
