@@ -37,8 +37,8 @@
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/aceprep-mock-interview.git
-cd aceprep-mock-interview
+git clone https://github.com/prasad-j155/interview-prep.git
+
 
 # Create virtual environment (optional)
 python -m venv venv
