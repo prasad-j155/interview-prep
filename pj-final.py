@@ -105,7 +105,7 @@ Provide:
 
 
 # --- 🎨 Custom UI Styling ---
-st.set_page_config(page_title="AI Mock Interview", page_icon="🧠", layout="centered")
+st.set_page_config(page_title="AcePrep: Your AI Mock Interview Coach", page_icon="🧠", layout="centered")
 
 st.markdown("""
 <style>
